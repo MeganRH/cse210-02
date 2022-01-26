@@ -107,5 +107,5 @@ class Director:
                 else:
                     print(f'Please select a right option!')
         else:
-            print('\nGame Over!!')
+            print('\nGame Over. But thank you for playing, please try again!')
             self.keep_playing = False
